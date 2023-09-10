@@ -8,4 +8,6 @@ This is a command-line application that manage a company's employee database, us
 ## screenshot
 images/Screenshot 2023-09-09 at 8.33.22 PM.png
 
-Github: https://github.com/Mateofo/Employee-Tracker.git
+## Github: https://github.com/Mateofo/Employee-Tracker.git
+
+## Video recording: https://drive.google.com/file/d/1kpN1mXwjBQsS-NKmHykp9G3-p39l0deJ/view
