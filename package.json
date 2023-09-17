@@ -1,25 +1,16 @@
 {
-    "name": "Employee-Tracker",
+    "name": "employee-tracker",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+      "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Mateofo/Employee-Tracker.git"
-    },
+    "keywords": [],
     "author": "",
     "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/Mateofo/Employee-Tracker.git"
-    },
-    "homepage": "https://github.com/Mateofo/Employee-Tracker/blob/main/README.md",
     "dependencies": {
-        "console.table": "^0.10.0",
-        "init": "^0.1.2",
-        "inquirer": "^7.3.3",
-        "mysql": "^2.18.1"
+      "inquirer": "^8.2.4",
+      "mysql2": "^3.6.0"
     }
-}
+  }
