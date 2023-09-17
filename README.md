@@ -10,4 +10,4 @@ images/Screenshot 2023-09-09 at 8.33.22 PM.png
 
 ## Github: https://github.com/Mateofo/Employee-Tracker.git
 
-## Video recording: https://drive.google.com/file/d/1kpN1mXwjBQsS-NKmHykp9G3-p39l0deJ/view
+## Video recording: https://drive.google.com/file/d/11uq44Gbz8emQ7M9x0xlNWuL6ye_evsfS/view

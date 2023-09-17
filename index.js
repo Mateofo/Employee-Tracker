@@ -85,7 +85,7 @@ function viewAllDepartments() {
 }
 
 function viewAllRoles() {
-    db.query("SELECT e1.fist_name, e1.lastName, t2 e2.first_name AS manager from employee e1 INNER JOIN employee e2 ON e1.manager_id = e2.id", function (err, res) {
+    db.query("select * from role", function (err, res) {
         if (err) throw err;
         console.log("Viewing all roles");
         console.table(res);
